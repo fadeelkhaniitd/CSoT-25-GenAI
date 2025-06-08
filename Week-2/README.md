@@ -44,7 +44,7 @@ Using the concepts above, implement the bot explained in the Medium article give
 
 ### *Instructions:*
 
-* Implement the LangChain-based bot that rewrites product descriptions using a structured prompt  
+* Implement the LangChain-based bot from the Medium Article given below that rewrites product descriptions using a structured prompt  
 * Use either **Groq** or **Gemini** as the backend LLM(your main task for this week for which you need to refer to the documentation)  
 * Handle different input cases via `PromptTemplate`  
 * Validate output using `PydanticOutputParser` or `OutputFixingParser`
@@ -65,16 +65,6 @@ Using the concepts above, implement the bot explained in the Medium article give
 
 * Medium Article (Basics of LangChain with an Example): [No-Nonsense Guide to LangChain](https://medium.com/@sureshraghu0706/no-nonsense-guide-to-langchain-a3521d725abf)  
 * LangChain Official Documentation: [Docs](https://docs.langchain.com/)
-
-
-# **Submission Details**
-
-### *Deliverable:* A Python script or Jupyter notebook that:
-
-* Defines prompt templates and output schemas  
-* Sets up the LangChain pipeline  
-* Executes on at least one test case
-
 
 ### *How to Submit:* We’ll collect submissions via a Google Form shared in your WhatsApp group.
 
